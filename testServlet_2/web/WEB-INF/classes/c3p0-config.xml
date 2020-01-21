@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c3p0-config>
+        <!-- 默认配置，c3p0框架默认加载这段默认配置 -->
+        <default-config>
+            <!-- 配置JDBC 四个基本属性 -->
+            <property name="driverClass">com.mysql.jdbc.Driver</property>
+            <property name="jdbcUrl">jdbc:mysql://localhost:3306/fistTestDatabase</property>
+            <property name="user">root</property>
+            <property name="password">jiaojian54D1</property>
+        </default-config> <!-- This app is massive! -->
+</c3p0-config>

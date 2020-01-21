@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Main-Class: 
+Class-Path: spring-aspects-4.3.18.RELEASE.jar spring-context-support-4.3
+ .18.RELEASE.jar spring-beans-4.3.18.RELEASE.jar spring-context-4.3.18.R
+ ELEASE.jar spring-aop-4.3.18.RELEASE.jar spring-instrument-4.3.18.RELEA
+ SE.jar spring-instrument-tomcat-4.3.18.RELEASE.jar spring-expression-4.
+ 3.18.RELEASE.jar spring-core-4.3.18.RELEASE.jar spring-messaging-4.3.18
+ .RELEASE.jar spring-oxm-4.3.18.RELEASE.jar spring-test-4.3.18.RELEASE.j
+ ar spring-jms-4.3.18.RELEASE.jar spring-orm-4.3.18.RELEASE.jar spring-j
+ dbc-4.3.18.RELEASE.jar aopalliance-1.0.jar spring-tx-4.3.18.RELEASE.jar
+  commons-logging-1.2.jar servlet-api.jar
+
